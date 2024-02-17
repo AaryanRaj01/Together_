@@ -13,21 +13,15 @@ This Flutter app demonstrates data fetching from a mock API and includes error h
 ## Screenshots
 
 
-### Light Mode
+| Light Mode | Dark Mode |
+| --- | --- |
+| ![Light Mode](https://github.com/AaryanRaj01/Together_/assets/99470935/d3d5ffcd-a0b0-4618-aa62-ca4379b74b6d) | ![Dark Mode](https://github.com/AaryanRaj01/Together_/assets/99470935/b087565a-15c0-4889-b67d-cc8c30f6adad) |
 
-![Light Mode](https://github.com/AaryanRaj01/Together_/assets/99470935/d3d5ffcd-a0b0-4618-aa62-ca4379b74b6d)
+| Pagination | Error Handling |
+| --- | --- |
+| ![Pagination](https://github.com/AaryanRaj01/Together_/assets/99470935/6d8e7d09-cd6e-47eb-a7dc-8ae14c96ccf5) | ![Error Handling](https://github.com/AaryanRaj01/Together_/assets/99470935/9407ed4f-5b56-4b9d-bc0d-171b8f225b45) |
 
-### Dark Mode
-
-![Dark Mode](https://github.com/AaryanRaj01/Together_/assets/99470935/b087565a-15c0-4889-b67d-cc8c30f6adad)
-
-### Pagination
-
-![Pagination](https://github.com/AaryanRaj01/Together_/assets/99470935/6d8e7d09-cd6e-47eb-a7dc-8ae14c96ccf5)
-
-### Error Handling
-
-![Error Handling](https://github.com/AaryanRaj01/Together_/assets/99470935/9407ed4f-5b56-4b9d-bc0d-171b8f225b45)
+## Features
 
 
 ## Getting Started
